@@ -73,6 +73,8 @@
 
 .upload-button {
   margin-top: var(--spacing-md);
+  display: block;
+  cursor: pointer;
   width: 100%;
 }
 

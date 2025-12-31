@@ -1,0 +1,105 @@
+Bir bilgisayarı oluşturan iki ana bileşen nedir?,Donanım ve yazılım.
+Bilgisayarı meydana getiren tüm fiziksel kısımlara verilen ad nedir?,Donanım.
+Bilgisayarların isteğe uygun işleri yapabilmeleri için onlara iletilen tüm bilgiler ve komutlara ne ad verilir?,Yazılım.
+John von Neumann'ın 1945'te geliştirdiği ve günümüz bilgisayarlarının temel aldığı mimaride hangi üç temel sistem yer alır?,"Bir işlemci, bir hafıza ve giriş/çıkış sistemleri."
+Bilgisayarda işlenecek verileri giriş aygıtlarından alarak merkezi işlem birimine aktaran birim hangisidir?,Giriş birimi.
+Bilgisayar tarafından işlenen verileri belirlenen çıkış aygıtına aktaran birim hangisidir?,Çıkış birimi.
+Merkezi işlem biriminin işleyeceği verilerin tutulduğu hızlı erişim sağlayan geçici depolama birimi hangisidir?,Bellek birimi (RAM veya birincil hafıza).
+Bilgisayarın elektrik enerjisi kesildiğinde verilerin kaybolduğu bellek birimi hangisidir?,Bellek birimi (RAM).
+"CPU içinde yer alan, toplama, çıkarma gibi aritmetik ve AND, OR gibi mantıksal işlemleri gerçekleştiren birim nedir?",Aritmetik ve Mantıksal Birim (ALU).
+"Bilgisayar sistemindeki birimlerin çalışmalarını zamanlayan, kontrol eden ve tüm birimlerin işleyişini organize eden birim hangisidir?",Merkezi işlem birimi (CPU).
+Verilerin tekrar kullanılmak üzere kalıcı olarak saklandığı ve elektrik kesintilerinden etkilenmeyen yüksek kapasiteli bellek birimi nedir?,İkincil depolama birimi.
+Bilgisayar sistemlerinin veri oluşturmak için kullandığı 1 ve 0'lardan oluşan sayı sistemine ne denir?,İkilik (binary) sayı sistemi.
+En küçük bellek birimi olarak adlandırılan ve 'Binary Digit' ifadesinden türetilen kelime nedir?,Bit.
+Daha az dijit ile daha çok değer göstermek amacıyla kullanılan ve $2^3=8$ ilişkisine dayanan sayı sistemi hangisidir?,Sekizlik (Octal) sayı sistemi.
+4 bitlik bir ikilik sayıyı tek bir dijitle gösterebilen ve $2^4=16$ ilişkisine dayanan sayı sistemi hangisidir?,Onaltılık (Hexadecimal) sayı sistemi.
+Onluk bir sayıyı ikilik sayıya çevirirken hangi metot kullanılır?,Sayı devamlı olarak 2'ye bölünür ve kalan değerler tersten yazılarak ikilik sayı elde edilir.
+İkilik bir sayıyı onluk sayıya çevirirken hangi işlem yapılır?,Her basamak 2'nin ilgili kuvveti ile çarpılarak sonuçlar toplanır.
+Onaltılık sayı sisteminde 10'dan 15'e kadar olan sayıları temsil eden harfler sırasıyla nelerdir?,"A=10, B=11, C=12, D=13, E=14, F=15."
+"Belirli bir amaca yönelik olarak, verilen komutlar doğrultusunda işlemleri belirli bir sırada yerine getiren komut dizisine ne denir?",Program.
+Programlar bütününe verilen genel isim nedir?,Yazılım.
+Bilgisayar sisteminin kaynaklarını yöneten ve uygulama programlarının çalışmasını sağlayan yazılım türü nedir?,Sistem yazılımları.
+Son kullanıcının ihtiyaçlarını karşılamak için tasarlanmış yazılım türü nedir?,Uygulama yazılımları.
+Programcının yazdığı komutları bilgisayarın anlayabileceği makine diline dönüştüren araçlara ne ad verilir?,Derleyiciler (Compilers).
+Bir programlama dilinin konuştuğumuz doğal dile yakınlığına göre sınıflandırılması nasıldır?,"Doğal dile ne kadar yakınsa o kadar yüksek seviyeli, makine diline ne kadar yakınsa o kadar düşük seviyeli olarak sınıflandırılır."
+Sadece 1'lerden ve 0'lardan oluşan ve her bilgisayarın sadece kendi mimarisine özgü olarak anladığı dil hangisidir?,Makine Dili.
+"C++ programlama dili, 1979 yılında Bjarne Stroustrup tarafından hangi programlama diline eklemeler yapılarak geliştirilmiştir?",C programlama dili.
+Bir C++ programının geliştirilmesindeki yedi aşama nelerdir?,"Düzenleme, önişleme, derleme, birleştirme, yükleme, çalıştırma ve hata ayıklama."
+"C++ kaynak kodunun derlenmeden önce, önişleme komutları kullanılarak düzenlenmesi aşamasına ne denir?",Önişleme (Preprocessing).
+Derleyicinin oluşturduğu 'amaç kod' ile standart kütüphanedeki fonksiyonları birleştirip çalıştırılabilir program dosyasını oluşturan aşama hangisidir?,Birleştirme (Linking).
+Bir programın çalışabilmesi için işletim sisteminin yükleyicisi tarafından diskten okunarak bilgisayarın birincil belleğine aktarıldığı aşama nedir?,Yükleme (Loading).
+Bir problemin çözümü için net olarak tanımlanmış iş adımları listesine ne ad verilir?,Algoritma.
+Doğal dil ile programlama dillerinin bileşkesi kullanılarak algoritmaların sunulma tekniğine ne denir?,Sözde kod (Pseudocode).
+Bir problemin çözümüne yönelik geliştirilen algoritmanın görsel sembollerle ifade edilmiş şekline ne ad verilir?,Akış diyagramı (Flowchart).
+Akış diyagramında programın başladığı ve bittiği konumu gösteren şekil hangisidir?,Başla/Bitir şekli.
+Akış diyagramında değişkenlere değer atamaları ve matematiksel işlemlerin yapıldığı aşamalarda kullanılan şekil hangisidir?,İşlem/Atama şekli.
+"C++'da, derleyici tarafından dikkate alınmayan ve sadece programcıyı bilgilendirme amaçlı yazılan satırlar hangi karakterlerle başlar?",İki adet bölü işareti (//).
+C++ programlarında okuma/yazma işlemleri için gerekli olan ve `#` karakteri ile başlayan satırda eklenen başlık dosyası hangisidir?,#include <iostream>
+Her C++ programının çalışmaya başladığı zorunlu fonksiyonun adı nedir?,main() fonksiyonu.
+C++'da bir ifadenin (statement) bittiğini belirtmek için satır sonuna hangi karakter konulmalıdır?,Noktalı virgül (;).
+`cout` nesnesiyle kullanılan ve sağ tarafındaki değeri çıktı akışına ekleyen operatör hangisidir?,Akış yerleştirme operatörü (<<).
+`cin` nesnesiyle kullanılan ve klavyeden girilen değeri sağındaki değişkene atayan operatör hangisidir?,Akış çıkarma operatörü (>>).
+C++'da bir değişkenin değerini başka bir değişkene veya sabite atamak için kullanılan operatör hangisidir?,Atama operatörü (=).
+Tamsayı bölme işleminde $9/4$ işleminin sonucu C++'da nedir?,"2'dir, çünkü sonuç tamsayı olur."
+Birinci işlenenin ikinciye bölünmesinden kalanı veren C++ operatörü hangisidir?,Modül operatörü (%).
+"Daha hızlı ve verimli kod geliştirme amacıyla kullanılan; editör, derleyici ve hata ayıklama araçlarını bir arada sunan yazılımlara ne denir?",Bütünleşik Geliştirme Ortamı (IDE).
+C++ dilinde iki değerin birbirine eşit olup olmadığını kontrol etmek için hangi operatör kullanılır?,Eşittir operatörü (==).
+İki değerin birbirinden farklı olup olmadığını kontrol eden C++ operatörü hangisidir?,Eşit değildir operatörü (!=).
+C++'da birden fazla koşulu birleştirmek için kullanılan ve her iki koşul da doğruysa doğru sonuç veren mantıksal operatör hangisidir?,Mantıksal VE (&&).
+Koşullardan en az birinin doğru olması durumunda doğru sonuç veren mantıksal operatör hangisidir?,Mantıksal VEYA (||).
+"Doğru olan bir ifadeyi yanlış, yanlış olan bir ifadeyi doğru yapan mantıksal operatör hangisidir?",Mantıksal DEĞİL (!).
+"Bir kod bloğunun, belirli bir koşulun sağlanması durumunda çalışmasını sağlayan şartlı deyim hangisidir?",if şartlı deyimi.
+Bir koşulun sağlanmadığı durumda farklı bir kod bloğunun çalıştırılmasını sağlayan yapı hangisidir?,if-else yapısı.
+"`switch` çoklu seçim yapısında, bir `case` bloğu çalıştıktan sonra diğer `case` bloklarının çalışmasını engellemek için kullanılan deyim nedir?",break deyimi.
+Bir değişkenin değerini 1 arttırmak için kullanılan operatör hangisidir?,Arttırma operatörü (++)
+`a = a + 3;` ifadesinin bileşik atama operatörü kullanılarak yazılmış daha kısa hali nedir?,`a += 3;`
+Bir veya daha fazla işlemin belirli sayıda veya bir koşul sağlanıncaya kadar tekrarlanmasını sağlayan programlama yapılarına ne denir?,Döngüler (Loops).
+C++ programlama dilindeki üç farklı döngü yapısı nelerdir?,"for, while ve do...while."
+"Genellikle sayaç kontrollü bir döngü oluşturmak için ideal olan ve üç bölümden (başlatma, koşul, arttırma) oluşan döngü hangisidir?",for döngüsü.
+Döngüyü anında sonlandırıp döngüden sonraki ilk komuta geçmek için kullanılan deyim nedir?,break deyimi.
+Döngünün mevcut iterasyonunda kendisinden sonra gelen satırları atlayıp bir sonraki iterasyona geçmesini sağlayan deyim nedir?,continue deyimi.
+"C++'da matematiksel fonksiyonları (trigonometrik, üssel vb.) kullanmak için hangi kütüphane eklenmelidir?",cmath kütüphanesi.
+Bir fonksiyonun herhangi bir değer döndürmeyeceğini belirtmek için kullanılan veri tipi nedir?,void.
+Sadece tanımlandıkları fonksiyon içerisinde aktif olan ve değerlerini koruyan değişkenlere ne ad verilir?,Yerel değişkenler (Local variables).
+Program içindeki tüm fonksiyonlar için geçerli olan ve fonksiyonların dışında bildirilen değişkenlere ne ad verilir?,Global değişkenler (Global variables).
+C++'da rastgele sayı üretimi için kullanılan üç temel fonksiyon hangileridir?,"srand, rand ve time."
+Bir bilgisayar sistemi tarafından üretilen beklenmeyen ya da doğru olmayan sonuca ne denir?,Hata (bug).
+Programlama dilinin yazım ve gramer kurallarının ihlal edilmesiyle oluşan ve derleyici tarafından tespit edilen hata türü nedir?,Söz dizimsel hata (Syntax error).
+"Dil bilgisi hatası barındırmadığı için derleyicinin kontrolünü geçen, ancak çalışma zamanında ortaya çıkan veya yanlış sonuç üreten hata türü nedir?",Anlam bilimsel hata (Semantic error).
+Programın çakılmasına sebep olan anlam bilimsel hata türü hangisidir?,Çalışma zamanı hatası (Runtime error).
+Programın çalışıp yanlış sonuçlar üretmesine neden olan anlam bilimsel hata türü hangisidir?,Mantık hatası (Logic error).
+"Hata ayıklamada, programın çalışırken ilgili satırda durdurulmasını sağlayan araca ne denir?",Kesme noktası (Breakpoint).
+"Hata ayıklama sırasında, programı komut komut, yani adım adım çalıştırmak için kullanılan işlem hangisidir?",Adımla (Step Into - F11).
+"Sonlu sayıda, aynı tipte, bellekte sıralı tutulan ve indis ile ulaşılan veri grubuna ne ad verilir?",Dizi (Array).
+C++ dilinde bir dizinin ilk elemanının indisi (sıra numarası) kaçtır?,0 (sıfır).
+Karakter dizilerinde metnin bittiğini belirtmek için kullanılan ve bellekte son karakterden sonra eklenen özel karakter nedir?,Sonlandırma karakteri (\0).
+Bir dizide aranan elemanı bulana kadar tüm elemanların sırayla taranması işlemine ne ad verilir?,Lineer arama (Linear search).
+Her adımda dizinin geri kalanındaki en küçük elemanı bulup doğru yerine yerleştirme mantığına dayanan sıralama algoritması hangisidir?,Seçmeli sıralama (Selection sort).
+"İki boyutlu bir dizide genellikle ilk indis ______, ikinci indis ise ______ olarak adlandırılır.","satır, sütun."
+"İki boyutlu bir diziyi bir fonksiyona parametre olarak gönderirken, hangi boyutun eleman sayısının mutlaka belirtilmesi gerekir?",İkinci boyutun (sütun sayısı) eleman sayısı belirtilmelidir.
+C++'da karakter dizilerini temsil eden ve metin işlemleri için birçok üye fonksiyon içeren sınıfın adı nedir?,string sınıfı.
+Bir `string` nesnesinin içerdiği karakter sayısını veren iki üye fonksiyonu hangileridir?,size() ve length().
+Bir `string` nesnesinin içeriğini tamamen boşaltan üye fonksiyon hangisidir?,clear().
+Bir `string` nesnesinin sonuna tek bir karakter eklemek için kullanılan üye fonksiyon hangisidir?,push_back().
+İki `string` nesnesinin değerlerini birbiriyle değiştiren üye fonksiyon hangisidir?,swap().
+Bir `string` nesnesini C-tipi bir karakter dizisine (sonunda null karakter olan) dönüştüren üye fonksiyon hangisidir?,c_str().
+Farklı veri türleri için aynı kodun tekrar yazılmasını engelleyen ve veri tipini fonksiyonlara veya sınıflara parametre olarak ileten yazılım tekniği nedir?,Şablonlar (Templates).
+C++'da şablon tanımlaması hangi anahtar kelime ile başlar?,template.
+"Bütün C++ derleyicilerinde bulunan ve depolar, algoritmalar, iteratörler gibi temel bileşenlerden oluşan yazılım kütüphanesi nedir?",Standart Şablon Kütüphanesi (STL - Standard Template Library).
+"STL'de, belirli bir türdeki nesneleri bir arada tutan ve yöneten saklayıcı nesnelere ne ad verilir?",Depolar (Containers).
+STL depolarındaki verilere erişim için kullanılan ve bellek adreslerini işaret eden nesneler nelerdir?,İteratörler (Iterators).
+Program sonlandığında verilerin kaybolmaması için büyük miktarda veriyi kalıcı olarak saklamak amacıyla ne kullanılır?,Dosyalar (Files).
+C++'da dosya işlemleri için programa eklenmesi gereken kütüphane hangisidir?,<fstream>
+C++'da dosyaya yazma (çıkış) işlemleri için `ostream` sınıfından türemiş olan sınıf hangisidir?,ofstream.
+C++'da dosyadan okuma (giriş) işlemleri için `istream` sınıfından türemiş olan sınıf hangisidir?,ifstream.
+Dosya açma modlarından `ios::app` ne işe yarar?,Dosya varsa içeriğini korur ve yeni verileri dosyanın sonuna ekler.
+Dosya açma modlarından `ios::out` ne işe yarar?,"Dosyayı yazmak için açar; dosya varsa içeriğini siler, yoksa yeni bir dosya oluşturur."
+"Yazılım geliştirme aşamasını kısaltan ve sınıf, nesne, kalıtım gibi yapı taşlarına dayanan programlama tekniği nedir?",Nesneye Yönelik Programlama (OOP).
+Gerçek hayattaki bir nesneyi modellemek için gerekli veriyi (üye değişken) ve fonksiyonları (üye fonksiyon) içeren yazılım birimine ne denir?,Sınıf (Class).
+Bir sınıftan türetilen ve o sınıfın bir örneği olan yapıya ne ad verilir?,Nesne (Object).
+Bir sınıfın üyelerine hem sınıf içinden hem de sınıf dışından erişilmesini sağlayan erişim belirteci hangisidir?,public.
+Bir sınıfın üyelerine sadece sınıf içerisinden erişilmesini sağlayan erişim belirteci hangisidir?,private.
+Bir nesne oluşturulduğunda özelliklere ilk değer ataması yapmak için kullanılan ve sınıf adıyla aynı isme sahip olan özel fonksiyona ne denir?,Yapıcı fonksiyon (Constructor).
+"Bir nesne yok edildiğinde, rezerve edilen bellek alanını boşaltmak için kullanılan ve sınıf adının önünde tilda (~) işareti olan özel fonksiyona ne denir?",Yıkıcı fonksiyon (Destructor).
+"Sınıf tanımı dışında, bir sınıfın üye fonksiyonlarına ve değişkenlerine erişmek için kullanılan operatör hangisidir?",Kapsam Çözünürlük Operatörü (::).
+"Bir nesne oluşturulduktan sonra, o nesnenin public üye değişkenlerine ve fonksiyonlarına erişmek için kullanılan operatör hangisidir?",Nokta Operatörü (.).

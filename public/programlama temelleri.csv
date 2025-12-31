@@ -1,0 +1,72 @@
+Bir bilgisayar sisteminin temel işlevlerini oluşturan dört ana bileşen nedir?,"Girdi (input), işlem (process), çıktı (output) ve depolama (storage)."
+"Bilgisayarın ""beyni"" olarak kabul edilen ve komutların işlenmesinden sorumlu olan donanım bileşeni hangisidir?",Merkezi İşlem Birimi (CPU - Central Processing Unit).
+İşlemcinin üzerinde çalışacağı verileri geçici olarak saklayan yüksek hızlı depolama alanı nedir ve en önemli özelliği nedir?,Bellek (RAM); en önemli özelliği elektrik kesildiğinde verilerin kaybolmasıdır (geçici olmasıdır).
+"Verilerin kalıcı olarak saklandığı, elektrik kesildiğinde içeriğini koruyan depolama birimi türü nedir?","İkincil Depolama (Örn: HDD, SSD, USB bellek)."
+CPU'nun matematiksel ve mantıksal işlemleri gerçekleştiren alt biriminin adı nedir?,Aritmetik-Mantıksal Birim (ALU).
+Aynı anda hem giriş hem de çıkış birimi olarak işlev görebilen donanıma bir örnek veriniz.,Dokunmatik ekran.
+Bilgisayar donanımının doğal olarak çalıştığı ve yalnızca 0 ile 1 sembollerini kullanan sayı sistemi hangisidir?,İkilik (binary) sayı sistemi.
+İkilik (binary) sayı sistemindeki her bir basamağa verilen ad nedir?,Bit (binary digit).
+Kaç bit bir araya gelerek bir bayt (byte) oluşturur?,8 bit.
+$(100101)_2$ sayısının onluk (decimal) sistemdeki karşılığı nedir?,$(37)_{10}$
+Bir onluk tamsayıyı ikiliye çevirmek için kullanılan yöntem nedir?,Sayıyı sürekli 2'ye bölerek kalanları tersten yazma yöntemi (ardışık bölüm-kalan).
+"İkili sayıları daha kısa ve okunabilir göstermek için kullanılan, $2^3$ ilişkisine dayanan sayı sistemi hangisidir?",Sekizlik (octal) sayı sistemi.
+"İkili sayıları daha kısa ve okunabilir göstermek için kullanılan, $2^4$ ilişkisine dayanan ve {0-9, A-F} sembollerini kullanan sayı sistemi hangisidir?",Onaltılık (hexadecimal) sayı sistemi.
+Yazılım (software) ve program arasındaki temel fark nedir?,"Program tek bir göreve yönelik komut dizisiyken, yazılım birden fazla programı, kütüphaneleri ve belgeleri içeren daha geniş bir üründür."
+Donanım kaynaklarını yöneten ve uygulama yazılımlarına altyapı sunan yazılım türü nedir?,"Sistem yazılımları (Örn: İşletim sistemi, sürücüler)."
+Doğrudan son kullanıcı gereksinimlerini hedefleyen yazılım türüne ne ad verilir?,"Uygulama yazılımları (Örn: Metin düzenleyici, web tarayıcı)."
+Programlama dillerini soyutlama düzeyine göre sınıflandırınız.,"Makine dilleri, düşük seviyeli diller ve yüksek seviyeli diller."
+C++ dili ilk olarak kim tarafından ve ne zaman geliştirilmeye başlanmıştır?,1979 yılında Bell Laboratuvarları'nda Bjarne Stroustrup tarafından geliştirilmeye başlanmıştır.
+"Modern C++ döneminin başlangıcı olarak kabul edilen ve dile `auto`, lambda ifadeleri gibi önemli yenilikler getiren sürüm hangisidir?",C++11 (2011).
+Bir C++ programının geliştirilme sürecindeki ilk üç aşama sırasıyla nedir?,"Düzenleme (editing), önişleme (preprocessing) ve derleme (compilation)."
+C++'ta `#include` gibi yönergeleri işleyerek kaynak dosya üzerinde metinsel dönüşümler yapan aşama hangisidir?,Önişleme (preprocessing).
+Önişlenmiş C++ kodunu hedef mimariye uygun makine talimatlarına dönüştürerek nesne dosyaları (`.obj`) üreten aşama hangisidir?,Derleme (compilation).
+Derleyicinin ürettiği nesne dosyalarını ve gerekli kütüphaneleri birleştirerek çalıştırılabilir bir dosya (`.exe`) oluşturan aşama nedir?,Bağlama (linking).
+Programın doğru çalışmasını engelleyen sorunların bulunması ve giderilmesi işlemine ne ad verilir?,Hata ayıklama (debugging).
+Dilin yazım kurallarına uyulmadığında ortaya çıkan ve programın derlenmesini engelleyen hata türü nedir?,Yazım Hataları (Söz dizimsel hatalar / Syntax Errors).
+Programın derlenip çalışmasına rağmen yanlış sonuç üretmesine neden olan hata türü hangisidir?,Mantıksal Hatalar (Logical Errors).
+"Belirli bir problemi veya amacı gerçekleştirmek için tasarlanmış sonlu, kesin ve etkin adımlar bütününe ne ad verilir?",Algoritma.
+Algoritma ile program arasındaki temel fark nedir?,Algoritma dil-bağımsız soyut bir çözüm tasarımıdır; program ise bu tasarımın belirli bir dildeki somut gerçekleştirimidir.
+"Algoritmanın dil-bağımsız, insan tarafından okunabilir metinsel ifadesine ne denir?",Sözde kod (pseudocode).
+Bir algoritmanın veya sürecin akışını standart sembollerle görselleştiren şemaya ne ad verilir?,Akış diyagramı (flowchart).
+Akış diyagramında algoritmanın başlangıç ve bitiş noktalarını gösteren sembolün şekli nedir?,Oval (Elips).
+Akış diyagramında hesaplama veya atama gibi işlem adımlarını temsil eden sembolün şekli nedir?,Dikdörtgen.
+Akış diyagramında koşullu dallanma veya akışın farklı yollara ayrıldığı noktaları gösteren sembolün şekli nedir?,Elmas (Eşkenar dörtgen).
+Akış diyagramında klavyeden veri okuma veya ekrana veri yazma gibi dış dünya ile veri alışverişini temsil eden sembolün şekli nedir?,Paralelkenar.
+"Visual Studio gibi ortamlarda kod düzenleyici, derleyici ve hata ayıklayıcıyı tek bir çatı altında toplayan yazılımlara ne ad verilir?",Bütünleşik Geliştirme Ortamı (IDE - Integrated Development Environment).
+Visual Studio'da C++ ile masaüstü geliştirme yapmak için kurulum sırasında seçilmesi zorunlu olan iş yükü (workload) hangisidir?,Desktop development with C++ (C++ ile Masaüstü Geliştirme).
+Visual Studio'da bir veya daha fazla ilgili projeyi bir araya getiren kapsayıcı yapıya ne denir?,Çözüm (Solution).
+Visual Studio'da tek bir çalıştırılabilir program (`.exe`) veya kütüphane (`.dll`) üretmek üzere bir araya getirilen dosyalar ve ayarlar bütününe ne denir?,Proje (Project).
+Bir C++ kaynak kod dosyasını tanımlayan standart dosya uzantısı nedir?,.cpp
+Her C++ programının başlangıç noktası olan ve kodun yürütülmeye başladığı zorunlu fonksiyonun adı nedir?,`main()` fonksiyonu.
+C++'ta konsola veri yazdırmak (örneğin `std::cout`) için programa dahil edilmesi gereken standart kütüphane hangisidir?,`<iostream>`
+Programı hata ayıklayıcı olmadan çalıştıran ve çıktı penceresinin kapanmasını engelleyen Visual Studio kısayolu nedir?,`Ctrl+F5`
+Programı hata ayıklama modunda başlatan Visual Studio kısayolu nedir?,`F5`
+"Hata ayıklama sırasında, programın yürütülmesini belirli bir kod satırında geçici olarak duraklatmak için kullanılan işarete ne ad verilir?",Kesme noktası (Breakpoint).
+Visual Studio'da imlecin bulunduğu satıra bir kesme noktası (breakpoint) koymak veya kaldırmak için kullanılan klavye kısayolu nedir?,`F9`
+"Hata ayıklama sırasında, imlecin bulunduğu satırı çalıştırıp bir sonraki satıra geçen, ancak fonksiyonların içine girmeyen komutun klavye kısayolu nedir?",`F10` (Step Over).
+"Hata ayıklama sırasında, imlecin bulunduğu satırı çalıştıran ve eğer satır bir fonksiyon çağrısı ise o fonksiyonun içine giren komutun klavye kısayolu nedir?",`F11` (Step Into).
+"Hata ayıklama sırasında mevcut fonksiyondan çıkıp, çağrıldığı yere geri dönmeyi sağlayan komutun klavye kısayolu nedir?",`Shift+F11` (Step Out).
+"Yazılım geliştirme sürecinin kaçınılmaz bir parçası olan, bir bilgisayar sistemi tarafından üretilen beklenmeyen ya da yanlış sonuca ne denir?",Hata (Bug).
+"Hata ayıklama süreci, temel olarak hangi iki ana kategoriye ayrılır?",Söz dizimsel hataların ayıklanması ve anlam bilimsel (mantıksal) hataların ayıklanması.
+"Derleyicinin hata mesajlarını inceleyerek, dilin yazım kurallarına uymayan kodları düzeltme işlemine ne denir?",Söz dizimsel hata ayıklama.
+"Aynı türden birden fazla veriyi, tek bir isim altında toplu hâlde saklamaya yarayan ve bellekte ardışık olarak yer alan veri yapısı nedir?",Dizi (array).
+C++ dilinde dizilerin indisleri (sıra numaraları) daima hangi sayıdan başlar?,0'dan başlar.
+10 elemanlı bir dizinin son elemanına erişmek için kullanılması gereken indis numarası kaçtır?,9 (çünkü indisler 0'dan başlar ve `boyut - 1`'e kadar gider).
+Bir diziye tanımlı boyutunun dışında bir indis ile erişilmeye çalışıldığında ortaya çıkan hataya ne denir?,Sınır dışı erişim (out of bounds).
+Diziler genellikle tüm elemanlarına sırayla erişmek için hangi kontrol yapısıyla birlikte kullanılır?,Döngüler (özellikle for döngüsü).
+"C++'ta bir diziyi bir fonksiyona parametre olarak gönderdiğinizde, aslında fonksiyona ne gönderilmiş olur?",Dizinin bellekteki başlangıç adresi (referansı).
+"C++ programlama dilinde matematiksel işlemler (karekök, üs alma vb.) için hazır fonksiyonları barındıran kütüphane hangisidir?",`cmath` kütüphanesi.
+"C++ dilinde metinleri işlemek (birleştirme, arama vb.) için kullanılan `string` sınıfını programa dahil etmek için hangi ifade kullanılır?",`#include <string>`
+"Bir C++ fonksiyonu herhangi bir değer döndürmeyecekse, dönüş tipi olarak hangi anahtar kelime kullanılır?",`void`
+Bir C++ fonksiyonu içinde tanımlanan ve sadece o fonksiyon içinde geçerli olan değişkenlere ne ad verilir?,Yerel değişken (local variable).
+Tüm fonksiyonların dışında tanımlanan ve programın herhangi bir yerinden erişilebilen değişken türü nedir?,Global değişken (global variable).
+`sqrt()` fonksiyonunun görevi nedir ve hangi kütüphanede bulunur?,Bir sayının karekökünü hesaplar ve `cmath` kütüphanesinde bulunur.
+"`pow(a, b)` fonksiyonunun görevi nedir?",`a` sayısının `b`'ninci kuvvetini hesaplar ($a^b$).
+"Bir diziyi bir fonksiyona parametre olarak gönderirken, genellikle dizinin kendisiyle birlikte hangi ek bilginin de gönderilmesi gerekir?",Dizinin boyutu (eleman sayısı).
+"Gerçek dünya nesnelerini modelleyen, verileri (üye değişkenler) ve bu veriler üzerinde çalışan fonksiyonları (üye fonksiyonlar) bir araya getiren programlama yaklaşımı nedir?",Nesneye Yönelik Programlama (Object-Oriented Programming).
+"Nesneye Yönelik Programlamada, ortak özellikleri ve davranışları tanımlayan şablona ne ad verilir?",Sınıf (Class).
+Bir sınıftan türetilen ve o sınıfın özelliklerini taşıyan somut örneğe ne ad verilir?,Nesne (Object).
+"Bir sınıf içinde, sınıf dışından erişilebilen üye değişkenleri ve fonksiyonları tanımlamak için hangi erişim belirteci kullanılır?",`public`
+"Bir sınıf içinde, yalnızca o sınıfın kendi üye fonksiyonları tarafından erişilebilen üyeleri tanımlamak için hangi erişim belirteci kullanılır?",`private`
+Bir nesne oluşturulduğunda otomatik olarak çağrılan ve genellikle ilk değer atamaları için kullanılan özel üye fonksiyonun adı nedir?,Yapıcı fonksiyon (constructor).
+Bir nesnenin ömrü sona erdiğinde otomatik olarak çağrılan ve bellek temizliği gibi işlemleri yapan özel üye fonksiyonun adı nedir?,Yıkıcı fonksiyon (destructor).
